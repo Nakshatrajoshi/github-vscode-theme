@@ -237,7 +237,7 @@ function getTheme({ theme, name }) {
       {
         scope: ["comment", "punctuation.definition.comment", "string.comment"],
         settings: {
-          foreground: themes({ light: scale.gray[5], dark: scale.gray[3], dimmed: scale.gray[3], hc: scale.gray[3] }),
+          foreground: themes({ light: scale.blue[5], dark: scale.blue[3], dimmed: scale.blue[3], hc: scale.blue[3] }),
         },
       },
       {
